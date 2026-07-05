@@ -26,6 +26,8 @@ The problem is price. The most a sponsor can pay and still clear a 15% return �
 
 The conclusion the model reaches is not "PayPal is a good LBO" — it is that **the deal clears the sponsor's return hurdle but the affordable premium lands below the market threshold, leaving a financial buyer structurally outbid in any competitive process at today's price.**
 
+<img width="791" height="332" alt="image" src="https://github.com/user-attachments/assets/cdc334a5-d9c6-4f4b-90db-efb0a24a53f6" />
+
 ---
 
 ## Why model a deal that likely wouldn't happen?
@@ -51,6 +53,8 @@ The exercise was built to run the full valuation and structuring process to an *
 | Bull / Bear IRR | 34.3% / (0.5%) |
 
 Value creation is driven by de-levering and EBITDA growth, not multiple expansion (entry and exit multiples are held equal — no re-rating is assumed).
+
+<img width="786" height="331" alt="Equity Value Creation Waterfall" src="https://github.com/user-attachments/assets/756e3da7-4ad9-4ad6-b383-0512ea086417" />
 
 ---
 
