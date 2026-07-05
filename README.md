@@ -1,6 +1,6 @@
 # PayPal Holdings (NASDAQ: PYPL) — Leveraged Buyout Analysis
 
-A sponsor-perspective take-private analysis of PayPal Holdings, built as an integrated three-statement operating model driving a full LBO, DCF, and relative-valuation framework. The model is constructed entirely from primary filings.
+A LBO model for PayPal, built with an integrated three-statement operating model, supporting schedules, pro forma financials and schedules, a DCF, a precedent transaction analysis, and a comparable company analysis.  
 
 **Author:** Tyler Spencer
 **Last updated:** July 5, 2026
