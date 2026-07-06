@@ -10,7 +10,7 @@ In late February/ early March, there was a public debate about whether PayPal sh
 
 ---
 
-## Thesis: clears sponsor hurdle, market premium below threshold
+## Thesis: returns clear sponsor hurdle, market premium below threshold
 
 A PayPal buyout clears a sponsor's return hurdle at a financeable capital structure — but only at an offer price where the premium to market likely falls below the threshold a board would accept, and below the valuation of the company based on a discounted cash flow analysis, a precedent transaction analysis, and a comparable company analysis. 
 
