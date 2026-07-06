@@ -22,13 +22,13 @@ The problem is price. The most a sponsor can pay and still clear a 15% return �
 |---|---|
 | **Max sponsor-affordable bid (15% IRR)** | **$53.32** |
 | DCF (intrinsic) | $54.89 – $66.06 |
-| Comparable companies | $77.95 – $90.01 |
-| Precedent transactions | $100.73 – $115.62 |
+| Comparable companies | $70.99 – $95.40 |
+| Precedent transactions | $90.67 – $105.95 |
 | 52-week trading range | $38.46 – $79.50 |
 
 The conclusion the model reaches is not "PayPal is a good LBO" — it is that **the deal clears the sponsor's return hurdle but the affordable premium lands below the market threshold, leaving a financial buyer structurally outbid in any competitive process at today's price.**
 
-<img width="791" height="332" alt="image" src="https://github.com/user-attachments/assets/cdc334a5-d9c6-4f4b-90db-efb0a24a53f6" />
+<img width="624" height="282" alt="Valuation Football Field" src="https://github.com/user-attachments/assets/56ed584e-7375-43fb-85ac-e1ba7ada10ac" />
 
 ---
 
