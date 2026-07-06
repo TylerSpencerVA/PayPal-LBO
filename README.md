@@ -34,6 +34,8 @@ The conclusion the model reaches is not "PayPal is a good LBO" — it is that **
 
 The exercise was built to run the full valuation and structuring process to an *honest* conclusion rather than fitting the model to a predetermined outcome. Assumptions were calibrated to filings first, and the analytical verdict was allowed to follow the outputs. It demonstrates the judgment the deal actually requires: knowing when the math doesn't support the deal, and being able to say so with the evidence in hand.
 
+Further, in late February/ early March, there were conversations in the media about a potential buyout or acquisition of PayPal when their new CEO tookover. 
+
 ---
 
 ## Headline outputs (base case)
