@@ -2,7 +2,7 @@
 
 A LBO model for PayPal, built with an integrated three-statement operating model, supporting schedules, pro forma financials and schedules, a DCF, a precedent transaction analysis, and a comparable company analysis.  
 
-In late February/ early March, there was a public debate about whether PayPal should be considered as a potential LBO or acquisition target. This project analyzes whether a sponsor could achieve a 15% return and whether a deal could be closed at a price that allows for such a return. 
+In late February/ early March, there was speculation about whether PayPal should be considered as a potential LBO or acquisition target. This project analyzes whether a sponsor could achieve a 15% return and whether a deal could be closed at a price that allows for such a return. 
 
 **Author:** Tyler Spencer
 **Last updated:** July 5, 2026
