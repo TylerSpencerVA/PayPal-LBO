@@ -2,6 +2,8 @@
 
 A LBO model for PayPal, built with an integrated three-statement operating model, supporting schedules, pro forma financials and schedules, a DCF, a precedent transaction analysis, and a comparable company analysis.  
 
+In late February/ early March, there was a public debate about whether PayPal should be considered as a potential LBO or acquisition target. This project analyzes whether a sponsor could achieve a 15% return and whether a deal could be closed at a price that allows for such a return. 
+
 **Author:** Tyler Spencer
 **Last updated:** July 5, 2026
 **Format:** Microsoft Excel 
@@ -32,9 +34,7 @@ The conclusion the model reaches is not "PayPal is a good LBO" — it is that **
 
 ## Why model a deal that likely wouldn't happen?
 
-The exercise was built to run the full valuation and structuring process to an *honest* conclusion rather than fitting the model to a predetermined outcome. Assumptions were calibrated to filings first, and the analytical verdict was allowed to follow the outputs. It demonstrates the judgment the deal actually requires: knowing when the math doesn't support the deal, and being able to say so with the evidence in hand.
-
-Further, in late February/ early March, there were conversations in the media about a potential buyout or acquisition of PayPal when their new CEO tookover. 
+The exercise was built to run the full valuation and structuring process to an *honest* conclusion rather than fitting the model to a predetermined outcome. Assumptions were calibrated to filings first, and the analytical verdict was allowed to follow the outputs. It demonstrates the judgment the deal actually requires: knowing when the math doesn't support the deal, and being able to say so with the evidence in hand. 
 
 ---
 
