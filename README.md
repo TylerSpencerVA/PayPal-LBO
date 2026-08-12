@@ -4,6 +4,8 @@ A LBO model for PayPal, built with an integrated three-statement operating model
 
 In late February/ early March, there was speculation about whether PayPal should be considered as a potential LBO or acquisition target. This project analyzes whether a sponsor could achieve a 15% return and whether a deal could be closed at a price that allows for such a return. 
 
+Link to the downloadable model: https://github.com/TylerSpencerVA/PayPal-LBO/blob/main/Paypal%20LBO%20Model.xlsx
+
 **Author:** Tyler Spencer
 **Last updated:** July 5, 2026
 **Format:** Microsoft Excel 
